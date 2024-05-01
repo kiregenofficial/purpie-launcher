@@ -5,6 +5,11 @@ A tiny desktop application made for entertainment.
 - Snake game
 - 2048
 
+### Instructions:
+- To play 15 Puzzle use mouse
+- To play 2048 use arrow keys
+- To play Snek press space, use WASD
+
 ### Features:
 - Dynamic main menu window
 - Buttons with sound
@@ -18,5 +23,9 @@ A tiny desktop application made for entertainment.
 - Needs some directory tweaks
 - The project is quite unfinished
 - May be laggy and glitchy
+
+### Please, credit me if you're using:
+- Snek sprites
+- Floppy disk logo
 
 ### Sincerely yours, Kira Egen
