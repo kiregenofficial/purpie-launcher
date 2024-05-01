@@ -18,14 +18,15 @@ A tiny desktop application made for entertainment.
 ### Future plans:
 - Expand the number of games
 - Improve the user experience
+- Code a decent exe file
 
 ### Notes:
-- Needs some directory tweaks
+- Open LittleGamesLauncher.java via IDE
 - The project is quite unfinished
 - May be laggy and glitchy
 
 ### Please, credit me if you're using:
-- Snek sprites
+- Snek game sprites
 - Floppy disk logo
 
 ### Sincerely yours, Kira Egen
