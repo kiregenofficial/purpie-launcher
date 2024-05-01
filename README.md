@@ -21,7 +21,7 @@ A tiny desktop application made for entertainment.
 - Code a decent exe file
 
 ### Notes:
-- Open LittleGamesLauncher.java via IDE
+- Run LittleGamesLauncher.java via IDE
 - The project is quite unfinished
 - May be laggy and glitchy
 
