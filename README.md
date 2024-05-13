@@ -27,6 +27,8 @@ A tiny desktop application made for entertainment.
 
 ### Please, credit me if you're using:
 - Snek game sprites
-- Floppy disk logo
+
+### Consider:
+- Use of the floppy disk logo is prohibited!
 
 ### Sincerely yours, Kira Egen
